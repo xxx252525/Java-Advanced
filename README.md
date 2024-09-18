@@ -1,12 +1,12 @@
 ## 从Java面向对象开始，进阶学习Java技术
 从Java基础到方法是由dloAsc进行编写的，后面的部分由我天阁创客official编写。
 ## 目录
-- [Java基础](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/Java%E5%9F%BA%E7%A1%80.md)
-- [Java变量](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/Java%E5%8F%98%E9%87%8F.md)
-- [数据类型与运算](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E8%BF%90%E7%AE%97.md)
-- [逻辑结构](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84.md)
-- [数组](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E6%95%B0%E7%BB%84.md)
-- [方法](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E6%96%B9%E6%B3%95.md)
+- [Java基础](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80.md)
+- [Java变量](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%8F%98%E9%87%8F.md)
+- [数据类型与运算](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E8%BF%90%E7%AE%97.md)
+- [逻辑结构](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84.md)
+- [数组](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84.md)
+- [方法](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%96%B9%E6%B3%95.md)
 - [面向对象](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 - 核心类
 - 异常处理
