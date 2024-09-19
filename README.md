@@ -7,7 +7,7 @@
 - [逻辑结构](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84.md)
 - [数组](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84.md)
 - [方法](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%96%B9%E6%B3%95.md)
-- [面向对象](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E8%BF%9B%E9%98%B6/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+- [面向对象](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 - 核心类
 - 异常处理
 - 泛型
