@@ -1,5 +1,5 @@
 ## 从Java基础开始，零基础学习Java技术
-从Java基础到方法是由dloAsc进行编写的，后面的部分由我天阁创客official编写。
+从Java基础到方法由`dloAsc`进行编写的，后面的部分由我`天阁创客official`编写。**内容免费开源，禁止倒卖！**
 ## 目录
 - [Java基础](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80.md)
 - [Java变量](https://github.com/xxx252525/Java-Advanced/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%8F%98%E9%87%8F.md)
